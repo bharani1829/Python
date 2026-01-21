@@ -1,3 +1,4 @@
+#WAP to check if a list contains a palindrome of element (By using Copy method)
 list1 = [1,2,1]
 list2 = [1,2,1]
 copy_list1 = list1.copy()
